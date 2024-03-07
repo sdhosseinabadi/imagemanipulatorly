@@ -1,0 +1,31 @@
+{
+  "name": "imagemanipulatorly",
+  "version": "1.0.4",
+  "description": "Transform your images programmatically with ease using the image-manipulator npm package. This package provides several functionalities to manipulate images in various ways.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdhosseinabadi/imagemanipulatorly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sdhosseinabadi/imagemanipulatorly/issues"
+  },
+  "homepage": "https://github.com/sdhosseinabadi/imagemanipulatorly#readme",
+  "keywords": [
+    "Transform",
+    "your",
+    "images",
+    "programmatically"
+  ],
+  "author": "sdhosseinabadi",
+  "license": "MIT",
+  "dependencies": {
+    "code-formlly": "^1.3.2",
+    "data-visualizer-csv": "^1.4.1",
+    "form-valid-js": "^1.0.7",
+    "polycalculator": "^1.0.2"
+  }
+}
